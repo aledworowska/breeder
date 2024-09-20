@@ -1,8 +1,7 @@
 # Breeder
 Application for people who want to sell their animals. On frontend-side you can add, delete or update animal if you are logged in. A group project prepared for university class. 
 
-
-![image](https://user-images.githubusercontent.com/58554458/208656998-317b181f-f2f3-492a-ab91-b57dfa924f1e.png)
+![obraz](https://github.com/user-attachments/assets/740e2922-bcbf-4354-83be-1b1ea84cb538)
 
 ### How to make app runnable?
 
